@@ -1,0 +1,16 @@
+{
+  "shopify": {
+    "customers": {
+      "lastSync": null
+    },
+    "products": {
+      "lastSync": null
+    },
+    "orders": {
+      "lastSync": null
+    },
+    "inventory": {
+      "lastSync": null
+    }
+  }
+}
