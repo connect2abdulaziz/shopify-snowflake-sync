@@ -1,6 +1,5 @@
 // src/services/backfill.service.js
 const shopifyService = require('./shopify.service');
-const facebookService = require('./facebook.service');
 const syncState = require('../models/state.model');
 const logger = require('../utils/logger');
 
