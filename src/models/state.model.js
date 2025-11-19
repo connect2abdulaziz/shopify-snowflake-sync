@@ -27,12 +27,6 @@ class SyncState {
         products: { lastSync: null },
         orders: { lastSync: null },
         inventory: { lastSync: null }
-      },
-      facebook: {
-        campaigns: { lastSync: null },
-        adSets: { lastSync: null },
-        ads: { lastSync: null },
-        insights: { lastSync: null }
       }
     };
   }
